@@ -1,24 +1,24 @@
 # Hi there 👋 I am Abdallah Ellethy
 
-![Linkedin Badge](https://img.shields.io/badge/-Abdallah_Ellethy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdallah-ellethy-536a72224/)
+![Linkedin Badge](https://img.shields.io/badge/-Abdallah_Ellethy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellethy)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdallah-ellethy-536a72224.abdallah-ellethy-536a72224)
 
 Hey, it's me, Abdallah Ellethy. I'm a computer science graduate from [Cairo University](https://cu.edu.eg/Home), currently working at [IBM](https://www.ibm.com/). A passionate programmer who wants to explore new grounds and ideas.
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abdallah-Mohamedo-Eid-Hassan20190330&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdallah-ellethy&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-Mohamedo-Eid-Hassan20190330&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallah-ellethy&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5" />
 </a>
 
 ## 🌱 I’m currently interested/learning in
 
 - backend
+- Cloud computing
+- DevOps
 - Mobile development
 - Game development ([Unity3D](https://unity.com/))
-- DevOps
-- Cloud computing
 
 ## 👨🏻‍💻 Projects I made
 
